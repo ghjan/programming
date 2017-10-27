@@ -1,1 +1,0 @@
-alert("welcome to 东东网页");

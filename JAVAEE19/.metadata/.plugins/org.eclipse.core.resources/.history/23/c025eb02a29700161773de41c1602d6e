@@ -1,7 +1,0 @@
-package com.dong.io;
-
-import java.io.File;
-
-public class ReadText {
-	private File file;
-}
